@@ -1,6 +1,6 @@
 ## Introduction
 
-[**Instant woff2otf**](https://minormole.github.io/instant_woff2otf) is an instant version of [**woff2otf**](https://github.com/hanikesn/woff2otf). Ready2Go woff to otf font conversion.
+[**Instant woff2otf**](https://minormole.github.io/instant_woff2otf) is an instant version of [**woff2otf**](https://github.com/hanikesn/woff2otf). Ready2Go woff to otf font converter.
 
 ## Usage [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MinorMole/instant_woff2otf/blob/master/Instant_woff2otf.ipynb)
 
